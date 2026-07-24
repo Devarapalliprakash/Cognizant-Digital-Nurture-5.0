@@ -374,3 +374,15 @@ GitHub Copilot
 Google Gemini
 AI Code Generation
 AI Text Summarization
+
+
+Learning Objectives
+
+Strengthen problem-solving skills.
+Learn modern software development practices.
+Understand full-stack application development.
+Build practical knowledge using .NET technologies.
+Improve coding and debugging skills.
+Learn version control and collaboration.
+Explore cloud-native development concepts.
+Gain exposure to Generative AI fundamentals.
